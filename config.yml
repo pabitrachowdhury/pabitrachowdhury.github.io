@@ -26,7 +26,7 @@ menu:
           weight: 4
 
 params:
-    description: "Ph.D. student in Economics at Northeastern University. Research interests in health, labor, and public economics."
+    description: "PhD Student in Economics at Northeastern."
     author: Pabitra Chowdhury
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
