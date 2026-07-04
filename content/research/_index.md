@@ -27,7 +27,7 @@ description: "Research papers and publications"
 
 ---
 
-## Publications
+## Publications (Health Policy)
 
 ### Hospital-Physician Integration and Differences in the Use of Orthopedic Care Across Race and Ethnicity
 
