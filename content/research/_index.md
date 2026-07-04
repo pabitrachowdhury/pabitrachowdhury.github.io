@@ -1,8 +1,7 @@
 ---
-
 title: "Research"
 description: "Research papers and publications"
------------------------------------------------
+---
 
 ## Research in Progress
 
@@ -32,16 +31,16 @@ description: "Research papers and publications"
 
 ### Hospital-Physician Integration and Differences in the Use of Orthopedic Care Across Race and Ethnicity
 
-*with Brady Post, Alexandra Harris, Gary Young, Farbod Alinezhad, Nasim Ferdows, and Winston Kennedy*
+*with Brady Post, Alexandra Harris, Gary Young, Farbod Alinezhad, Nasim Ferdows, and Winston Kennedy*  
 Accepted at *Medical Care*
 
 ---
 
 ### Adapting the WHO BeSD COVID-19 Survey to Examine Behavioral and Social Drivers of Vaccine Uptake Among Transgender, Intersex, and Disability Communities in India
 
-*with Lavalekar, E. et al.*
-*Vaccines*, 2025, 13(11), 1095.
-https://doi.org/10.3390/vaccines13111095
+*with Lavalekar, E. et al.*  
+*Vaccines*, 2025, 13(11), 1095.  
+[https://doi.org/10.3390/vaccines13111095](https://doi.org/10.3390/vaccines13111095)
 
 ---
 
@@ -49,5 +48,5 @@ https://doi.org/10.3390/vaccines13111095
 
 ### Shrinking Public Sector Employment and Its Costs
 
-*with Rosa Abraham*
+*with Rosa Abraham*  
 *Hindustan Times*, September 2022
