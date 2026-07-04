@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Pabitra Chowdhury
-          subtitle: "I am a Ph.D. candidate in Economics at **Northeastern University**. I am also a student affiliate at the **Centre for Health Policy & Healthcare Research** at Northeastern. My research interests in health, labor and pulic economics. Before my Ph.D., I worked as a Research Analyst at the International Food Policy Research Institute, New Delhi and Azim Premji University, Bangalore. I also consulted with Sangath-iHEAR on health equity projects."
+          subtitle: "I am a Ph.D. candidate in Economics at[**Northeastern University**](https://www.northeastern.edu/). I am also a PhD affiliate at the [**Center for Health Policy and Healthcare Research**](https://chphr.northeastern.edu/). My research interests are in health, labor and public economics. Before my Ph.D., I worked as a Research Analyst at the International Food Policy Research Institute, New Delhi and Azim Premji University, Bangalore. I also consulted with Sangath-iHEAR on health equity projects."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
