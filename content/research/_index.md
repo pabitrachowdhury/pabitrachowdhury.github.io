@@ -3,12 +3,7 @@ title: "Research"
 description: "Research papers and publications"
 ---
 
-## Interests
-
-My research interests lie at the intersection of health, labor, and public economics. I focus on questions of competition, vertical integration, long-term care, aging, and workforce issues in healthcare, which touches IO and healthcare more substantially. I also have interests in studying economics of AI. I primarily employ causal inference methods to address these questions.
-
-
-## Publications
+## Publications (Non Economics/Health Policy)
 
 ---
 
