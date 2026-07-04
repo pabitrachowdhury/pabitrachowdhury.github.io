@@ -21,9 +21,6 @@ menu:
         #- name: CV
         #  url: cv.pdf
         #  weight: 3
-        - name: Contact
-          url: contact/
-          weight: 3
 
 params:
     description: "PhD Candidate in Economics at Northeastern."
@@ -63,8 +60,6 @@ params:
               url: teaching/
            # - name: CV
             #  url: cv.pdf
-            - name: Contact
-              url: contact/
 
     socialIcons:
         #- name: CV
