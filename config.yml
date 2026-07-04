@@ -20,10 +20,10 @@ menu:
           weight: 2
         #- name: CV
         #  url: cv.pdf
-          weight: 3
+        #  weight: 3
         - name: Contact
           url: contact/
-          weight: 4
+          weight: 3
 
 params:
     description: "PhD Candidate in Economics at Northeastern."
