@@ -18,8 +18,8 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 2
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+        #  url: cv.pdf
           weight: 3
         - name: Contact
           url: contact/
@@ -61,14 +61,14 @@ params:
               url: research/
             - name: Teaching
               url: teaching/
-            - name: CV
-              url: cv.pdf
+           # - name: CV
+            #  url: cv.pdf
             - name: Contact
               url: contact/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+         # url: cv.pdf
         - name: Email
           url: mailto:chowdhury.pa@northeastern.edu
         - name: LinkedIn
