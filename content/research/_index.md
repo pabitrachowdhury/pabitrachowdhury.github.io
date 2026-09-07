@@ -9,12 +9,6 @@ description: "Research papers and publications"
 
 ---
 
-### Old-Age Pension Schemes and Mental Health: Evidence from India
-
-*with Kabir Rana*
-
----
-
 ### Vertical Integration and Patient Satisfaction
 
 *with Gary Young and Brady Post*
@@ -27,12 +21,12 @@ description: "Research papers and publications"
 
 ---
 
-## Publications (Health Policy)
+## Health Policy Journals
 
 ### Hospital-Physician Integration and Differences in the Use of Orthopedic Care Across Race and Ethnicity
 
 *with Brady Post, Alexandra Harris, Gary Young, Farbod Alinezhad, Nasim Ferdows, and Winston Kennedy*  
-Accepted at *Medical Care*
+forthcoming at *Medical Care*
 
 ---
 
